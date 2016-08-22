@@ -52,10 +52,10 @@
 
 ###Stop comments 🙅🏻
 
-- Discard Hapi? A lot of people prefer Express and it's used much more often. Some people think Hapi is higher lever framework and easier to learn. It's documentation is difficult.
-- Maybe 8 person projects instead? 16 man project was fun but the learning curve was too high.
+- Discard Hapi? A lot of people prefer Express and it's used much more often. Some people think Hapi is higher lever framework but more difficult to learn because the documentation isn't well written and all the tutorials out there use express.
+- 16 man project was fun but the learning curve was too high. Vote was taken to turn this into 2, 8 person projects.
 - React, one week workshops, one week project with 8 + 8 person teams. Vote 1 person to keep 16 p project, rest for 8 + 8, one abstain.
-- Qunit testing framework to be  scrapped. Testing possibly to be moved later in the course. Introducing testing earlier might help understanding it later. Arguments for teaching testing for specific tasks. 
+- Qunit testing framework to be scrapped. Testing possibly to be moved later in the course. Introducing testing earlier might help understanding it later. Arguments for teaching testing for specific tasks.
 - Possibilty of ditching redis and starting mongoDB instead. Mongo is used more often but might be too close to postgres. Usecases for Redis? Maybe only teach postgres and teach the concept of databases. Vote: Keeping things how they are 2, swopping to mongo 4, only teaching postgres 6. Dan says learning SQL will be important and is in favor of just postgres. 
 - Stop handlebars? With React there is overlapping. Sam thinks it's good to introduce many subjects. Vote to keep 3, kill handlebars 10.
 - Drop raw http server writing. Important to understand but not good to repeat. Introducing hapi earlier? Mattia thinks it's good to do it at least once and understand it's javascript better. Better resources introduced as pre-course material. Changing Node into one week of node and one week of hapi by unanimous vote. 
@@ -83,7 +83,7 @@
 ###Continue Comments 🙇
 
 - Readme question time. Continue and peer pressure helps.
-- We like Jasmin.
+- We like Jasmine.
 - Learning outcomes. Aligned with improving gitbook. 
 - Office hours. Nice to have set hours when to ask questions. Possibly use alumni for office hours too. Less pressure for people who do know subjects more in depth. Nicer for beginners to ask from more experienced folk. Thursday afternoon?
 - "Not finishing project" stress. Matt likes stress. 
