@@ -10,6 +10,8 @@ Today we:
   * adding a new section on how to develop your online presence
   * updated the FAC8 responsibilities section
   * added much gif such emoji
+* Added all the relevant folders to each week based upon those contained in week 7 (workshop, readme topics, project, stop go continue, morning challenge, resources, learning outcomes)
+* Created a readme on how to create a gitbook and add new files to an existing gitbook.
 
 To be done on the general section:
 
