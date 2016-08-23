@@ -3,7 +3,7 @@
 ## Teams
 
 ### Code of conduct writer
-???
+Bradley, Sofia
 
 ### Alumni contacter
 ???
