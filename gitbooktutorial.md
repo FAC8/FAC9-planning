@@ -32,3 +32,5 @@ Next you want to create some new files. "That's easy!" I hear you say, but no. G
 4) And now you need to *link* these two files together. Right click the article you just created and select "Edit pointing file". Point that to the .md file you want to link it to.
 
 5) Great success.
+
+Note: the files that you see in gitbook's editing mode are in sync with those in the repo the gitbook was created from and will update them automatically. Vice versa if you update the repo.
