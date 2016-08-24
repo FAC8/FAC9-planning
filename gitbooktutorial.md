@@ -31,13 +31,13 @@ For simplicity's sake it is advised to re-use the folder structure of prior gitb
 
 1) Find your new gitbook through the founders & coders organisation on gitbook and go into it.
 
-1) Select the edit button. You will be taken to a CMS with two file directories that you can see. On top is the one that is displayed in the book and below are the actual .md files from the github repository you created the book from.
+2) Select the edit button. You will be taken to a CMS with two file directories that you can see. On top is the one that is displayed in the book and below are the actual .md files from the github repository you created the book from.
 
-2) Create a new file under the appropriate folder on the bottom directory by right clicking the folder and selecting "new file." Name it whatever you like. "learning-outcomes.md" for example.
+3) Create a new file under the appropriate folder on the bottom directory by right clicking the folder and selecting "new file." Name it whatever you like. "learning-outcomes.md" for example.
 
-3) Then on the top directory, right click on the folder you want that file displayed in and create an article with the name that you want to have displayed under that week. "Learning Outcomes" for example.
+4) Then on the top directory, right click on the folder you want that file displayed in and create an article with the name that you want to have displayed under that week. "Learning Outcomes" for example.
 
-4) And now you need to *link* these files in the two directories. Right click the article you just created and select "Edit pointing file". Point that to the .md file you want to link it to.
+5) And now you need to *link* these files in the two directories. Right click the article you just created and select "Edit pointing file". Point that to the .md file you want to link it to.
 
 5) Great success. Remember to save your changes if you are editing existing files.
 
