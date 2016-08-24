@@ -17,7 +17,7 @@
 
 4) Now that you have cloned the prior cohort's gitbook, initialise a github repository in the relevant github organisation using this clone.
 
-5) Sign into gitbook and select the new button on the top menu bar to begin creating a new gitbook.
+5) Sign into gitbook and select the "new" button on the top menu bar to begin creating a new gitbook.
 
 6) From the main drop-down menu on the creation screen select the option to import and sync an existing Github repository. Make sure on the drop-down menu beneath this that you are creating this through the Founders & Coders organisation and not your own individual account. Give it a title, description and select the repository you have just created on github to sync it with. Then click "Create Book"!
 
@@ -26,8 +26,6 @@
 ##Creating a file on the GitBook
 
 Next you want to create some new files. "That's easy!" I hear you say, but no. GitBook has made this very simple sounding task as annoying as possible.
-
-For simplicity's sake it is advised to re-use the folder structure of prior gitbooks.
 
 1) Find your new gitbook through the founders & coders organisation on gitbook and go into it.
 
@@ -42,3 +40,5 @@ For simplicity's sake it is advised to re-use the folder structure of prior gitb
 5) Great success. Remember to save your changes if you are editing existing files.
 
 The files that you see in gitbook's editing mode are in sync with those in the repo the gitbook was created from and will update that repo automatically with your changes. Vice versa if you update the repo.
+
+For simplicity's sake it is advised to re-use the folder structure of prior gitbooks.
