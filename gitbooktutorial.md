@@ -57,4 +57,4 @@ Everyone else in your cohort only needs read and write access to edit the gitboo
 
 5) In the "Add Members" search bar enter the github username of who you would like to add and select them when they appear.
 
-6) Click the green "Save" button next to the search bar and they should be added to the organisation.
+6) Click the green "Save" button next to the search bar and they should be added to the organisation and be able to edit the gitbook.
