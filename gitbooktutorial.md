@@ -5,7 +5,7 @@
 
 ##Creating a GitBook for the next cohort.
 
-1) Ensure that you have been invited into the FAC organisation on gitbook and have been given admin rights there. This is necessary in order to create a gitbook from a Founders & Coders github repository.
+1) You will need to ensure that you have been invited into the FAC organisation on gitbook and have been given admin rights there. This is necessary in order to create a gitbook from a Founders & Coders github repository. 
 
 2) Sign into gitbook, through your gitbook or github account, go to the top right-hand menu, and go to the Founders & Coders organisation.
 
@@ -15,13 +15,13 @@
 
 5) Clone the gitbook's repo onto your local machine. In the terminal you will be asked to provide your account name and password. It's asking for your gitbook account name and password not your github details, so ensure that you have a gitbook account.  
 
-4) Now that you have cloned the prior cohort's gitbook, initialise a github repository in the relevant github organisation using this clone.
+6) Now that you have cloned the prior cohort's gitbook, initialise a github repository in the relevant github organisation using this clone.
 
-5) Sign into gitbook and select the "new" button on the top menu bar to begin creating a new gitbook.
+7) Sign into gitbook and select the "new" button on the top menu bar to begin creating a new gitbook.
 
-6) From the main drop-down menu on the creation screen select the option to import and sync an existing Github repository. Make sure on the drop-down menu beneath this that you are creating this through the Founders & Coders organisation and not your own individual account. Give it a title, description and select the repository you have just created on github to sync it with. Then click "Create Book"!
+8) From the main drop-down menu on the creation screen select the option to import and sync an existing Github repository. Make sure on the drop-down menu beneath this that you are creating this through the Founders & Coders organisation and not your own individual account. Give it a title, description and select the repository you have just created on github to sync it with. Then click "Create Book"!
 
-7) The gitbook is now created and can be found on the Founders & Coders organisation on gitbook. It will have the same folder structure and content as the last cohort's gitbook, and be synced with the repository you created for it on github. :-)
+9) The gitbook is now created and can be found on the Founders & Coders organisation on gitbook. It will have the same folder structure and content as the last cohort's gitbook, and be synced with the repository you created for it on github. :-)
 
 ##Creating a file on the GitBook
 
@@ -42,3 +42,19 @@ Next you want to create some new files. "That's easy!" I hear you say, but no. G
 The files that you see in gitbook's editing mode are in sync with those in the repo the gitbook was created from and will update that repo automatically with your changes. Vice versa if you update the repo.
 
 For simplicity's sake it is advised to re-use the folder structure of prior gitbooks.
+
+##Adding someone to the Founders & Coders organisation on gitbook
+
+Everyone else in your cohort only needs read and write access to edit the gitbook which is given when they are added to the organisation. You will need to be a part of the Founders & Coders organisation on gitbook and have admin privileges to add new members.
+
+1) First of all make sure everyone in your cohort has admin privileges on the gitbook's github repository.
+
+2) Secondly make sure everyone has signed into gitbook using their github account and granted gitbook access to it or it will not be possible to add them to the organisation using their github account.
+
+3) Sign into gitbook and go to the Founders & Coders organisation. Go to "Settings."
+
+4) Under the Organisation tab go to "People."
+
+5) In the "Add Members" search bar enter the github username of who you would like to add and select them when they appear.
+
+6) Click the green "Save" button next to the search bar and they should be added to the organisation.
