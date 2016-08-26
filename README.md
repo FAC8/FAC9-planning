@@ -3,10 +3,10 @@
 ## Teams
 
 ### Code of conduct writer
-Bradley, Sofia
+Bradley, Sofia, Heather
 
 ### Alumni contacter
-???
+Jakub
 
 ### FACbook editors
 Kara, Noga, Brad
