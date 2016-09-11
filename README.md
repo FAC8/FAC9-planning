@@ -26,7 +26,7 @@ Kara, Anneka, Mattia
 ### Week 3 - APIs
 Rich, Sofia, Noga
 
-### Week 4/5 - Node and Hapi/Express
+### Week 4/5 - Node and Hapi
 Gabriel, Brad, Rory
 
 ### Week 6/7 - Databases
