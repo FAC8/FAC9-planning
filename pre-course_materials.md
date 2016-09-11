@@ -21,3 +21,6 @@ You'll be using the command line a lot during the course, so do take the time to
 
 ####DOM Manipulation
 The #1 thing we wish we'd known more about when we started at FAC is DOM manipulation. [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) and [Tuts+](http://code.tutsplus.com/tutorials/javascript-and-the-dom-series-lesson-1--net-3134) have good guides to the DOM, and you can take a stab at this [DOM manipulation tutorial](https://dom-tutorials.appspot.com/static/index.html). It would also be worth your time to try working with the DOM in a project.
+
+####Test driven development
+One of the many things we are big on at FAC is test driven development. From very early in the course we adopt TDD and we approach each project using TDD. We strongly reccomend getting an introduction to TDD with this [UDACITY JavaScript testing](https://www.udacity.com/course/javascript-testing--ud549) course.	
