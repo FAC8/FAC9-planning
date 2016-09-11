@@ -21,7 +21,7 @@ Troy, Kara, Heather, Emma
 Heather, Noga, Emma
 
 ### Week 2 - TDD
-Kara, Matt G, Mattia
+Kara, Anneka, Mattia
 
 ### Week 3 - APIs
 Rich, Sofia, Noga
@@ -30,10 +30,10 @@ Rich, Sofia, Noga
 Gabriel, Brad, Rory
 
 ### Week 6/7 - Databases
-Rich, Matt S, Jakub, Sam G, Matt G
+Rich, Matt S, Sam G, Matt G
 
 ### Week 8 - Oauth
 Matt G, Matt S, Mattia
 
-### Week 9/10 - React/Redux
+### Week 9/10 - UX/UI
 Noga, Jakub, Sofia
